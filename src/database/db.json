@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Eloquent javascript",
+      "description": "Best JS book",
+      "categories": [
+        "Javascript",
+        "Programming"
+      ],
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research."
+    },
+    {
+      "id": "2",
+      "title": "Laravel from scratch",
+      "description": "Best PHP framework book",
+      "categories": [
+        "PHP",
+        "Programming",
+        "Laravel"
+      ],
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research."
+    },
+    {
+      "id": "3",
+      "title": "React Basic",
+      "description": "Best JS Library book",
+      "categories": [
+        "React",
+        "Programming",
+        "Javascript"
+      ],
+      "body": "The National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the civil space program, aeronautics research, and space research."
+    },
+    {
+      "title": "PHP",
+      "description": "Best Book",
+      "categories": [
+        "Laravel"
+      ],
+      "id": "aZ31LqW"
+    },
+    {
+      "title": "Python",
+      "description": "Best",
+      "categories": [
+        "Elon Musk"
+      ],
+      "id": "Wwz67qW"
+    },
+    {
+      "title": "heooo",
+      "description": "tnaa",
+      "categories": [
+        "tnaa"
+      ],
+      "id": "gh1zn4t"
+    }
+  ]
+}
